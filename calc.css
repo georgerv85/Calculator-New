@@ -1,0 +1,40 @@
+.calculator {
+    max-width: 300px;
+    margin: 50px auto;
+}
+.calculator-screen {
+    height: 50px;
+    text-align: right;
+    padding: 10px;
+    font-size: 1.5rem;
+    border: 1px solid #393838;
+    border-radius: 5px;
+    background: #909295;
+}
+.btn {
+    height: 60px;
+    font-size: 1.2rem;
+}
+
+#Buttons{
+    background-color: #c9c3c3;
+}
+
+.btn{
+    background-color: #918d8d;
+}
+
+.calculator-screen{
+    background-color: antiquewhite;
+}
+
+body{
+    background-image: url('calculator.jpg');
+    
+}
+
+#totalScreen{
+    font-size: x-large;
+    font-weight: bolder;
+    color: black;
+}
